@@ -14,6 +14,7 @@
   #homelink{
     text-decoration:none;
     color:pink;
+
   }
 
 
@@ -28,7 +29,7 @@
 }
 
 /rotate links/
-a:hover {
+#homelink:hover {
   -ms-transform: rotate(7deg);
   -webkit-transform: rotate(7deg);
   transform: rotate(7deg);
