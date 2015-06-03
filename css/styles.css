@@ -23,13 +23,13 @@
 }
 
 
-#home {
+#portfolio {
     
     width: 100%;
     height:500px;
     background-color:blue;
 }
-#portfolio{
+#about{
   background-color:red;
   height:500px;
   width:100%;
