@@ -1,9 +1,9 @@
 
 
-body {
-    background-image:url("images/sky.JPG");
-    background-size: 100%;
-    background-repeat: no-repeat;
+#home img {
+    
+    width: 100%;
+    height:500px;
 }
 
 
