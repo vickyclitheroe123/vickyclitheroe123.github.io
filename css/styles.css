@@ -27,6 +27,13 @@
   opacity: 0.8;
 }
 
+/rotate links/
+a:hover {
+  -ms-transform: rotate(7deg);
+  -webkit-transform: rotate(7deg);
+  transform: rotate(7deg);
+}
+
 
 #home{
   width:1400px;
