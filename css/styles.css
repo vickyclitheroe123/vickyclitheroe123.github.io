@@ -24,24 +24,24 @@
 
 
 #home{
-  width:100%;
+  width:1400px;
   height:800px;
 }
 #portfolio {
     
     width: 100%;
-    height:500px;
+    height:1000px;
     background-color:blue;
 }
 #about{
   background-color:red;
-  height:500px;
+  height:1000px;
   width:100%;
 }
 
 #contact{
   width:100%;
-  height:800px;
+  height:1000px;
   background-color:yellow;
 }
 
