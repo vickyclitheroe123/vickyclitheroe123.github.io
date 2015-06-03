@@ -2,6 +2,8 @@
 
 body {
     background-image:url("images/sky.JPG");
+    background-size: 80px 60px;
+    background-repeat: no-repeat;
 }
 
 
