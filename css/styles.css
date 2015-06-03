@@ -29,7 +29,7 @@
 }
 
 /rotate links/
-#homelink:hover {
+#name:hover {
   -ms-transform: rotate(7deg);
   -webkit-transform: rotate(7deg);
   transform: rotate(7deg);
