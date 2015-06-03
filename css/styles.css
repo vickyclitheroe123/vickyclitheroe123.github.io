@@ -2,7 +2,7 @@
 
 body {
     background-image:url("images/sky.JPG");
-    background-size: 1350px 1000px;
+    background-size: 100%;
     background-repeat: no-repeat;
 }
 
@@ -26,6 +26,12 @@ body {
   opacity: 0.8;
 }
 
+
+#portfolio{
+  background-color:red;
+  height:500px;
+  width:100%;
+}
 
 
 
