@@ -9,7 +9,10 @@
   font-family: fantasy;
   float:right;
   margin-top:20px;
-  text-decoration:none;
+  
+  }
+  #homelink{
+    text-decoration:none;
   }
 
 
