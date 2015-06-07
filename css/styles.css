@@ -67,7 +67,9 @@
 
 /*Contact Section*/
 #contact_info{
-  margin:auto;
+  position: absolute;
+  margin-left: 27%;
+  margin-top: 12%;
 
 }
 #contact_heading{
