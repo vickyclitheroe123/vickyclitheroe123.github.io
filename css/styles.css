@@ -65,10 +65,10 @@
 
 /*Intro section*/
 #intro{
+  position: absolute;
   height: 182px;
   width: 471px;
-  border: 10px solid #ffffff;
-  border-radius: 70%;
+  border: 6px solid #F9F7FA;
   text-align: center;
   margin-top: -545px;
   margin-left: 427px;
