@@ -73,6 +73,10 @@
   margin-top: -545px;
   margin-left: 427px;
   font-size: 23px;
+  background-color: rgba(135, 136, 148 , 0.2);
+}
+#intro p {
+  margin-top: 27px;
 }
 
 /*Contact Section*/
