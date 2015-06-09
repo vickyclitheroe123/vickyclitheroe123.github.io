@@ -4,16 +4,15 @@
 
 /*Name*/
 #name{
-  color:pink;
-  font-size: 50px;
-  font-family: fantasy;
-  float:right;
-  margin-top:20px;
+  height:100px;
+  width:100px;
+  border-radius:100%;
+  background-color:rgba(135, 136, 148 , 1);
   
   }
   #homelink{
     text-decoration:none;
-    color:pink;
+    
 
   }
 
@@ -68,7 +67,7 @@
   position: absolute;
   height: 182px;
   width: 471px;
-  border: 6px solid #F9F7FA;
+  border: 3px solid #E4E5F0;
   text-align: center;
   margin-top: -545px;
   margin-left: 427px;
@@ -77,6 +76,8 @@
 }
 #intro p {
   margin-top: 27px;
+    color: #F5F5FA;
+  font-size: 28px;
 }
 
 /*Contact Section*/
