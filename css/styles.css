@@ -4,10 +4,12 @@
 
 /*Name*/
 #name{
-  height:100px;
-  width:100px;
+  height:80px;
+  width:80px;
   border-radius:100%;
   background-color:rgba(135, 136, 148 , 1);
+  float:right;
+  cursor:pointer;
   
   }
   #homelink{
