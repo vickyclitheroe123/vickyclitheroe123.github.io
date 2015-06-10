@@ -1,11 +1,7 @@
 $(document).ready(function(){
 
-   
-
-
-
-$('li').mouseenter(function() {
-    alert("I am an alert box!");
-
+  $('li').mouseenter(function(){
+  	alert("im a alert");
+  
 });
 });
