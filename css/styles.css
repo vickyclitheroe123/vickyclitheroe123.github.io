@@ -70,9 +70,6 @@
   background-color:#273563;
 }
 
-li:hover {
-  transform: translateY(-10px);color: #fff;
-}
 
 /*Intro section*/
 #intro{
