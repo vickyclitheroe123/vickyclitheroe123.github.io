@@ -10,7 +10,16 @@
         <script type="text/javascript" src="javascript/scrollReveal.min.js"></script>
 
         <script>
-          window.sr = new scrollReveal();
+      
+        var config = {
+        reset:  false,
+        mobile: false,
+        scale: { direction: 'up', power: '0%' },
+        move: '0px',
+        vFactor: 0.40
+        }
+
+        window.sr = new scrollReveal( config);
         </script>
 
 
