@@ -107,6 +107,7 @@
   text-align:center;
   font-size:20px;
   color:#ffffff;
+  margin-bottom:10%;
 
 }
 #contact_p2{
@@ -122,7 +123,8 @@
 
 #link1{
   color:#ffffff;
-  margin-left:10%;
+  margin-left:15%;
+  margin-top:20%;
   float:left;
 }
 #link2{
