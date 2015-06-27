@@ -73,7 +73,7 @@
   border-radius: 5%;
   box-shadow: 16px;
   box-shadow: 1px 2px 5px #888888;
-  margin-left: 36%;
+  margin-left: 38%;
   margin-top: 9%;
 }
 
@@ -172,3 +172,10 @@
 }
 
 
+/*Portfolio Section*/
+#development{
+  float:left;
+}
+#design{
+  float:left;
+}
