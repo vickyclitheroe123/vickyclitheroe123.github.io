@@ -179,6 +179,7 @@
   height:300px;
   margin-top: 8%;
   margin-left: 14%;
+  text-align: center;
 }
 #development i{
   margin-left: 30%;
@@ -189,4 +190,8 @@
   height:300px;
   margin-top: 8%;
   margin-left: 9%;
+  text-align: center;
+}
+#design i{
+  margin-left: 30%;
 }
