@@ -130,24 +130,28 @@
   margin-left:18%;
   margin-top:20%;
   float:left;
+  cursor: pointer;
 }
 #link2{
   color:#ffffff;
   float:left;
   margin-left:10%;
   margin-top:20%;
+  cursor: pointer;
 }
 #link3{
   color:#ffffff;
   float:left;
   margin-left:10%;
   margin-top:20%;
+  cursor: pointer;
 }
 #link4{
   color:#ffffff;
   float:left;
   margin-left:10%;
   margin-top:20%;
+  cursor: pointer;
 }
 
 
