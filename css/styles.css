@@ -175,7 +175,11 @@
 /*Portfolio Section*/
 #development{
   float:left;
+  width:400px;
+  height:300px;
 }
 #design{
   float:left;
+  width:400px;
+  height:300px;
 }
