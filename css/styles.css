@@ -183,7 +183,8 @@
 }
 
 #develope-icon:hover{
-  font-size:60px;
+  font-size:110px;
+  color:red;
 }
 #design{
   float:left;
@@ -192,6 +193,9 @@
   margin-top: 8%;
   margin-left: 9%;
   text-align: center;
+}
+#design-icon:hover{
+  font-size:110px;
 }
 
 #portfolio-part2{
