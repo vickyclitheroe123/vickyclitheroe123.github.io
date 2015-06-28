@@ -208,7 +208,8 @@
 
 #develope-icon:hover{
   font-size:90px;
-  color:red;
+  margin-bottom: 2px;
+  transition-duration: 1s;
 }
 
 #develope-icon{
@@ -225,6 +226,8 @@ margin-bottom: 30px;
 }
 #design-icon:hover{
   font-size:90px;
+  margin-bottom: 2px;
+  transition-duration: 1s;
 }
 #design-icon{
 margin-bottom: 30px;
