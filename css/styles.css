@@ -142,6 +142,15 @@
   font-weight:bold;
 }
 
+#email-address:hover {
+  background-color: #ffffff;
+  transition-duration: 0.5s;
+}
+
+#email:hover{
+  color:#273563;
+  transition-duration: 0.5s;
+}
 #link1{
   color:#ffffff;
   margin-left:18%;
