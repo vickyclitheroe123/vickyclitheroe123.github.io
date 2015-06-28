@@ -249,12 +249,15 @@ margin-bottom: 30px;
 #about-header {
   margin-left: 40%;
   margin-top: 40px;
+  color:#858585;
+  font-family: monospace;
 }
 
 #about p{
-  width: 480px;
+  color: #9D9C9C;
+  width: 881px;
   text-align: center;
-  margin-left: 28%;
+  margin-left: 16%;
   margin-top: 2%;
   font-size: 20px;
 }
