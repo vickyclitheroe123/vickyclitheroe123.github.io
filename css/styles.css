@@ -184,9 +184,10 @@
 
 .fa.fa-pinterest.fa-4x:hover {
   margin-top: -20px;
+
 }
 .fa.fa-linkedin.fa-4x:hover {
-  margin-top: -20px;
+  transform: translateY(-20px);
 }
 .fa.fa-codepen.fa-4x:hover {
   margin-top: -20px;
