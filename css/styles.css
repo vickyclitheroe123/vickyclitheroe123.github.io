@@ -175,7 +175,15 @@
 .fa.fa-instagram.fa-4x:hover {
   margin-top: -20px;
 }
-
+.fa.fa-pinterest.fa-4x:hover {
+  margin-top: -20px;
+}
+.fa.fa-linkedin.fa-4x:hover {
+  margin-top: -20px;
+}
+.fa.fa-codepen.fa-4x:hover {
+  margin-top: -20px;
+}
 /*Portfolio Section*/
 #development{
   float:left;
