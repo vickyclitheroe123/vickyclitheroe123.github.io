@@ -183,7 +183,8 @@
 
 
 .fa.fa-pinterest.fa-4x:hover {
-  margin-top: -20px;
+  transform: translateY(-20px);
+  transition: all 0.3s ease;
 
 }
 .fa.fa-linkedin.fa-4x:hover {
@@ -191,10 +192,12 @@
   transition: all 0.3s ease;
 }
 .fa.fa-codepen.fa-4x:hover {
-  margin-top: -20px;
+  transform: translateY(-20px);
+  transition: all 0.3s ease;
 }
 .fa.fa-instagram.fa-4x:hover {
-  margin-top: -20px;
+ transform: translateY(-20px);
+  transition: all 0.3s ease;
 }
 /*Portfolio Section*/
 #development{
