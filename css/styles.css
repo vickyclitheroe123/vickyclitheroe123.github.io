@@ -56,7 +56,7 @@
     
     width: 100%;
     height:458px;
-    background-color:#ffffff;
+    background-color:#f3f3f3;
 }
 
 /*about section*/
@@ -182,6 +182,9 @@
   text-align: center;
 }
 
+.fafa-codefa-5x:hover{
+  width:800px;
+}
 #design{
   float:left;
   width:400px;
