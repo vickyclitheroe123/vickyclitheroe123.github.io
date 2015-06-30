@@ -272,5 +272,20 @@ margin-bottom: 30px;
 #html {
   width: 11%;
   margin-top: 10%;
-  margin-left: -67%;
+  float:left;
+}
+
+#jquery {
+  width:20%;
+  float:left;
+}
+
+#ps{
+  width:20%;
+  float:left;
+}
+
+#js{
+  width:20%;
+  float:left;
 }
