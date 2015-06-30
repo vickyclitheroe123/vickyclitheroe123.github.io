@@ -272,24 +272,23 @@ margin-bottom: 30px;
 #html {
   width: 11%;
   margin-top: 10%;
-  float:left;
+  
 }
 #css{
-  float:left;
   width:9%;
 }
 
 #jquery {
   width:20%;
-  float:left;
+  
 }
 
 #ps{
-  width:20%;
-  float:left;
+  width: 15%;
+  margin-top: 5%;
+  margin-left: 21%;
 }
 
 #js{
   width:20%;
-  float:left;
 }
