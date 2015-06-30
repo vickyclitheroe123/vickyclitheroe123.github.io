@@ -261,3 +261,10 @@ margin-bottom: 30px;
   margin-top: 2%;
   font-size: 20px;
 }
+
+/*skills section*/
+#skills{
+  width:100%;
+  height:500px;
+  background-color:#ffffff;
+}
