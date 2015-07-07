@@ -274,18 +274,21 @@ margin-bottom: 30px;
   margin-top: 5%;
   float: left;
   margin-left: 6%;
+  opacity:0.7;
   
 }
 #css{
   width: 9%;
   margin-left: 30%;
   margin-top: 13%;
+  opacity:0.7;
 }
 
 #jquery {
   width: 18%;
   margin-left: -51%;
   margin-top: -8%;
+  opacity:0.7;
   
 }
 
@@ -293,12 +296,14 @@ margin-bottom: 30px;
   width: 14%;
   margin-top: -7%;
   margin-left: -5%;
+  opacity:0.7;
 }
 
 #js{
   width: 15%;
   margin-top: -25%;
   margin-left: 71%;
+  opacity:0.7;
 }
 
 /*Portfolio-part2*/
