@@ -373,6 +373,10 @@ margin-bottom: 23px;
 
 .portfolio-desc-text
 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'roboto', sans-serif;
+  font-size : 18px;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #444;  
 }
 
