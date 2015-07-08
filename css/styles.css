@@ -309,9 +309,9 @@ margin-bottom: 30px;
 /*Portfolio-part2*/
 /*mgmedical*/
 #mgmacbook {
-  height: 34%;
+  height: 36%;
   margin-top: 8%;
-  margin-left: 10%;
+  margin-left: 17%;
 }
 
 #mgmacbook-image {
@@ -320,8 +320,18 @@ margin-bottom: 30px;
 }
 
 #mg-paragraph {
-  width: 500px;
-  margin-left: 177px;
+  width: 350px;
   margin-top: 50px;
   float: left;
+  font-size: 18px;
+  color: #444;
+  line-height: 150%;
+  margin-left: 15%;
+  margin-top: 2%;
+}
+
+#mg-paragraph h1{
+font-size: 32px;
+line-height: 110%;
+font-weight: 600;
 }
