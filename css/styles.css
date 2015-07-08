@@ -209,6 +209,27 @@
   text-align: center;
 }
 
+#development p{
+
+  font-family: 'roboto', sans-serif;
+  margin-top: -7px;
+  float: left;
+  font-size: 18px;
+  font-weight: 300;
+  color: #444;
+  line-height: 163%;
+
+}
+
+#development h1 {
+  line-height: 110%;
+  margin-bottom: 23px;
+  font-family: 'roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: #444;
+}
+
 #develope-icon:hover{
   font-size:90px;
   margin-bottom: 2px;
@@ -236,6 +257,25 @@ margin-bottom: 30px;
 margin-bottom: 30px;
 }
 
+#design h1 {
+  line-height: 110%;
+  margin-bottom: 23px;
+  font-family: 'roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: #444;
+}
+
+#design p{
+  font-family: 'roboto', sans-serif;
+  margin-top: -7px;
+  float: left;
+  font-size: 18px;
+  font-weight: 300;
+  color: #444;
+  line-height: 163%;
+
+}
 
 /*Portfolio part 2*/
 #portfolio-part2{
