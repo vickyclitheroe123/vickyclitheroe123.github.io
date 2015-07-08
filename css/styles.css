@@ -368,6 +368,9 @@ margin-bottom: 23px;
 .portfolio-heading
 {
   font-family: 'roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: #444; 
 }
 
 
