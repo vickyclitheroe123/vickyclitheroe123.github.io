@@ -323,24 +323,26 @@ margin-bottom: 30px;
 }
 
 #mg-paragraph {
-  
+ 
+  font-family: 'roboto', sans-serif;
   margin-top: 50px;
   float: left;
   font-size: 18px;
+  font-weight: 300;
   color: #444;
   line-height: 167%;
-  
   margin-top: 2%;
-
   margin-left: 18%;
   width: 365px;
 }
 
 #mg-paragraph h1{
-font-size: 32px;
-line-height: 110%;
-font-weight: 600;
-margin-bottom: 23px;
+  line-height: 110%;
+  margin-bottom: 23px;
+  font-family: 'roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: #444; 
 }
 
 #visit-site{
@@ -365,21 +367,5 @@ margin-bottom: 23px;
   background-color: #90A0D6;
 }
 
-.portfolio-heading
-{
-  font-family: 'roboto', sans-serif;
-  font-size: 32px;
-  font-weight: 400;
-  color: #444; 
-}
 
-
-.portfolio-desc-text
-{
-  font-family: 'roboto', sans-serif;
-  font-size : 18px;
-  font-weight: 300;
-  line-height: 1.5;
-  color: #444;  
-}
 
