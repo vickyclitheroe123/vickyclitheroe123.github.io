@@ -307,8 +307,19 @@ margin-bottom: 30px;
 }
 
 /*Portfolio-part2*/
+/*mgmedical*/
 #mgmacbook {
   height: 34%;
   margin-top: 8%;
   margin-left: 10%;
+}
+
+#mgmacbook-image {
+  width: 500px;
+  float : left;
+}
+
+#mg-paragraph {
+  width: 500px;
+  float: left;
 }
