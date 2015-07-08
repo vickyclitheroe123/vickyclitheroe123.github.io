@@ -314,7 +314,7 @@ margin-bottom: 30px;
 #mgmacbook {
   height: 36%;
   margin-top: 8%;
-  margin-left: 17%;
+  margin-left: 20%;
 }
 
 #mgmacbook-image {
@@ -367,5 +367,10 @@ margin-bottom: 30px;
   background-color: #90A0D6;
 }
 
+.divider-line{
+  height:4px;
+  width:800px;
+  background-color:#E0E0E0;
+}
 
 
