@@ -330,7 +330,7 @@ margin-bottom: 30px;
   font-size: 18px;
   font-weight: 300;
   color: #444;
-  line-height: 167%;
+  line-height: 163%;
   margin-top: 2%;
   margin-left: 18%;
   width: 365px;
@@ -368,9 +368,11 @@ margin-bottom: 30px;
 }
 
 .divider-line{
-  height:4px;
-  width:800px;
-  background-color:#E0E0E0;
+  height: 2px;
+  width: 968px;
+  margin-top: 20%;
+  margin-left: -153%;
+  background-color: #E0E0E0;
 }
 
 
