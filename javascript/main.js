@@ -6,6 +6,6 @@ $(document).ready(function () {
              percentage: true,
              barHeight: 1,
              completeAnimation : "fade",
-             minimumTime: 20000,
+             minimumTime: 200,
              fadeOutTime: 1000);
 });
