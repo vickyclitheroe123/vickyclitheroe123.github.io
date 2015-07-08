@@ -101,13 +101,11 @@
   background-color: rgba(135, 136, 148 , 0.2);
 }
 #intro p {
-    margin-top: 27px;
-  color: #F5F5FA;
+  margin-top: 27px;
+    color: #F5F5FA;
   font-size: 28px;
   font-weight: bold;
-  font-family: 'roboto', sans-serif;
-  font-weight: 400;
-  line-height: 156%;
+}
 
 /*Contact Section*/
 #contact_info{
