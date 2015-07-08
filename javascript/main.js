@@ -1,4 +1,6 @@
 $(document).ready(function () {
+
+	console.log("brian ");
     $("body").queryLoader2(   
     		 barColor: "#efefef",
              backgroundColor: "#111",
