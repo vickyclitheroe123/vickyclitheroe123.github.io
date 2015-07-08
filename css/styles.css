@@ -239,7 +239,7 @@ margin-bottom: 30px;
 
 /*Portfolio part 2*/
 #portfolio-part2{
-  height:1000px;
+  height:3000px;
   width:100%;
   background-color:#ffffff;
 }
@@ -312,7 +312,7 @@ margin-bottom: 30px;
   margin-top: 6%;
 }
 #mgmacbook {
-  height: 36%;
+  height: 360px;
   margin-top: 8%;
   margin-left: 20%;
 }
@@ -378,9 +378,6 @@ margin-bottom: 30px;
 
 /*moca*/
 
-#mocaimg {
-  height: 100%;
-}
 
 #moca {
   margin-top: 6%;
