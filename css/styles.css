@@ -376,3 +376,45 @@ margin-bottom: 30px;
 }
 
 
+/*moca*/
+
+#mocaimg {
+  height: 100%;
+}
+
+#moca {
+  margin-top: 6%;
+}
+#mgmacbook {
+  height: 36%;
+  margin-top: 8%;
+  margin-left: 20%;
+}
+
+#mocaimg {
+  width: 500px;
+  float : left;
+}
+
+#moca-paragraph {
+ 
+  font-family: 'roboto', sans-serif;
+  margin-top: 50px;
+  float: left;
+  font-size: 18px;
+  font-weight: 300;
+  color: #444;
+  line-height: 163%;
+  margin-top: 2%;
+  margin-left: 18%;
+  width: 365px;
+}
+
+#moca-paragraph h1{
+  line-height: 110%;
+  margin-bottom: 23px;
+  font-family: 'roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: #444; 
+}
