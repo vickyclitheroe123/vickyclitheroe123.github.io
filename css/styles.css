@@ -55,14 +55,14 @@
 #portfolio-part1 {
     
     width: 100%;
-    height:508px;
+    height:458px;
     background-color:#f3f3f3;
 }
 
 /*about section*/
 #about{
   background-color:#E0E0E0;
-  height:800px;
+  height:1000px;
   width:100%;
 }
 
@@ -76,9 +76,6 @@
   margin-left: 38%;
   margin-top: 9%;
 }
-
-
-  
 
 
 
@@ -293,11 +290,7 @@ margin-bottom: 30px;
   margin-left: 40%;
   margin-top: 40px;
   color:#858585;
-  line-height: 114%;
-  margin-bottom: 20px;
-  font-family: 'roboto', sans-serif;
-  font-size: 33px;
-  font-weight: 400;
+  font-family: monospace;
 }
 
 #about p{
@@ -305,11 +298,8 @@ margin-bottom: 30px;
   width: 881px;
   text-align: center;
   margin-left: 16%;
-  font-family: 'roboto', sans-serif;
-  margin-top: 6px;
-  font-size: 19px;
-  font-weight: 400;
-  line-height: 169%;
+  margin-top: 2%;
+  font-size: 20px;
 }
 
 /*skills section*/
