@@ -480,5 +480,11 @@ html, body {
 
 /*Skills section h1*/
 #skills h1{
-  
+    position: absolute;
+  margin-left: 39%;
+  font-family: 'roboto', sans-serif;
+  margin-top: 6%;
+  font-size: 79px;
+  color: #9D9C9C;
+  font-weight: 500;
 }
