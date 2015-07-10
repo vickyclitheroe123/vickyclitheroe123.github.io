@@ -465,3 +465,8 @@ margin-bottom: 30px;
   font-weight: 400;
   color: #444; 
 }
+
+
+html, body {
+   height: 100%;
+}
