@@ -501,6 +501,7 @@ window.scrollReveal = (function( window ){
       };
     },
 
+
     isElemInViewport: function( elem ){
 
       var elHeight = elem.domEl.offsetHeight;
