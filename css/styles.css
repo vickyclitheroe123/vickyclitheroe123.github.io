@@ -435,6 +435,12 @@ margin-bottom: 30px;
   margin-top: 6%;
 }
 
+#mocadesktop-image {
+  height: 360px;
+  margin-top: 8%;
+  margin-left: 20%;
+}
+
 #mocaimg {
   width: 527px;
   float: left;
@@ -466,7 +472,7 @@ margin-bottom: 30px;
   color: #444; 
 }
 
-
+/* for scroll reveal*/
 html, body {
    height: 100%;
 }
