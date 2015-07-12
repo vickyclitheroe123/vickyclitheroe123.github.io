@@ -473,6 +473,29 @@ margin-bottom: 30px;
   color: #444; 
 }
 
+/*Linnbenton*/
+#LinnBenton-paragraph {
+ 
+  font-family: 'roboto', sans-serif;
+  margin-top: 50px;
+  float: left;
+  font-size: 18px;
+  font-weight: 300;
+  color: #444;
+  line-height: 163%;
+  margin-top: 2%;
+  margin-left: 18%;
+  width: 365px;
+}
+
+#LinnBenton-paragraph h1{
+  line-height: 110%;
+  margin-bottom: 23px;
+  font-family: 'roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: #444; 
+
 /* for scroll reveal*/
 html, body {
    height: 100%;
