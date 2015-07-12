@@ -479,7 +479,7 @@ margin-bottom: 30px;
   float: left;
   margin-left: 201px;
   margin-top: 42px;
-  height: 22%;
+  height: 27%;
 }
 
 #LinnBenton-paragraph {
@@ -518,4 +518,20 @@ html, body {
   font-size: 79px;
   color: #9D9C9C;
   font-weight: 500;
+}
+
+#freelance-h1{
+  line-height: 110%;
+  font-family: 'roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: #444;
+}
+
+#freelance-h2{
+line-height: 110%;
+  font-family: 'roboto', sans-serif;
+  font-size: 22px;
+  font-weight: 200;
+  color: #444;
 }
