@@ -474,6 +474,14 @@ margin-bottom: 30px;
 }
 
 /*Linnbenton*/
+
+#LinnBenton-ipad {
+  float: left;
+  margin-left: 201px;
+  margin-top: 42px;
+  height: 22%;
+}
+
 #LinnBenton-paragraph {
  
   font-family: 'roboto', sans-serif;
@@ -483,8 +491,8 @@ margin-bottom: 30px;
   font-weight: 300;
   color: #444;
   line-height: 163%;
-  margin-top: 2%;
-  margin-left: 18%;
+  margin-top: 7%;
+  margin-left: 7%;
   width: 365px;
 }
 
