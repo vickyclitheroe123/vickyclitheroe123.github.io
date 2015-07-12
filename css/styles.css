@@ -520,18 +520,46 @@ html, body {
   font-weight: 500;
 }
 
-#freelance-h1{
-  line-height: 110%;
+#freelance-h1 {
+  margin-top: 50%;
+  margin-left: 39%;
+  line-height: 106%;
+  margin-bottom: 23px;
   font-family: 'roboto', sans-serif;
-  font-size: 32px;
+  font-size: 37px;
   font-weight: 400;
   color: #444;
+ text-decoration: underline;
 }
 
-#freelance-h2{
-line-height: 110%;
+#freelance-h2 {
   font-family: 'roboto', sans-serif;
-  font-size: 22px;
-  font-weight: 200;
+  font-size: 18px;
+  font-weight: 300;
   color: #444;
+  line-height: 163%;
+  margin-top: -13px;
+  margin-left: 35%;
+}
+
+#portfolio-heading{
+  margin-top: 50%;
+  margin-left: 39%;
+  line-height: 106%;
+  margin-bottom: 23px;
+  font-family: 'roboto', sans-serif;
+  font-size: 37px;
+  font-weight: 400;
+  color: #444;
+ text-decoration: underline;
+}
+
+#portfolio-h2{
+   font-family: 'roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: #444;
+  line-height: 163%;
+  margin-top: -13px;
+  margin-left: 35%;
 }
