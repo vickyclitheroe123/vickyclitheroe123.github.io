@@ -62,7 +62,7 @@
 /*about section*/
 #about{
   background-color:#E0E0E0;
-  height:800px;
+  height:900px;
   width:100%;
 }
 
@@ -344,10 +344,20 @@ margin-bottom: 30px;
   line-height: 169%;
 }
 
-#reference-box{
-  height:100px;
-  width:100px;
-  border:2px solid #fff;
+#reference-box {
+  color: #A1A1A1;
+  width: 500px;
+  text-align: center;
+  margin-left: 59%;
+  font-family: 'roboto', sans-serif;
+  margin-top: 46px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 169%;
+  background-color: rgba(255,255,255, 0.4);
+  box-shadow: 5px 1px 2px #888888;
+  text-align: center;
+  padding-top: 30px;
 }
 
 /*skills section*/
