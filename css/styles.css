@@ -230,6 +230,11 @@
   transition: all 0.3s ease;
 }
 /*Portfolio Section*/
+
+#portfolio{
+  width: 100%;
+}
+
 #development{
   float:left;
   width:400px;
