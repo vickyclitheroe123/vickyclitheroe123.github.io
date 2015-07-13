@@ -131,6 +131,10 @@
   text-align:center;
   margin-top :-12%;
 }
+
+
+
+
 #contact_p1{
     margin-top: 8%;
   text-align: center;
@@ -584,4 +588,8 @@ html, body {
   line-height: 163%;
   margin-top: -13px;
   margin-left: 35%;
+}
+
+a:hover {
+  text-decoration: none;
 }
