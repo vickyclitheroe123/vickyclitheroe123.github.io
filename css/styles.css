@@ -134,11 +134,7 @@
 
 }
 
-#bottom-bar{
-  height:200px;
-  width:100%;
-  background-color:rgba(135, 136, 148 , 1);
-}
+
 #bottom-bar p{
   margin-left:20%;
   color: #F5F5FA;
