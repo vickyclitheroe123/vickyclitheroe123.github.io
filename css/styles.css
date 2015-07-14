@@ -414,7 +414,7 @@ margin-bottom: 30px;
 }
 #mgmacbook {
   height: 360px;
-  margin-top: 8%;
+  margin-top: -4%;
   margin-left: 20%;
 }
 
@@ -432,7 +432,7 @@ margin-bottom: 30px;
   font-weight: 300;
   color: #444;
   line-height: 163%;
-  margin-top: 2%;
+  margin-top: -2%;
   margin-left: 18%;
   width: 365px;
 }
@@ -484,6 +484,9 @@ margin-bottom: 30px;
   margin-top: 6%;
 }
 
+#moca .divider-line{
+  margin-top:34%;
+}
 #mocadesktop-image {
   height: 360px;
   margin-top: 8%;
