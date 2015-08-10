@@ -414,13 +414,13 @@ margin-bottom: 30px;
 }
 #mgmacbook {
   height: 360px;
-  margin-top: -4%;
-  margin-left: 20%;
+
 }
 
 #mgmacbook-image {
-  width: 500px;
+  width: 34%;
   float : left;
+  margin-left: 10%;
 }
 
 #mg-paragraph {
@@ -432,9 +432,9 @@ margin-bottom: 30px;
   font-weight: 300;
   color: #444;
   line-height: 163%;
-  margin-top: -2%;
-  margin-left: 18%;
-  width: 365px;
+  margin-top: -0.5%;
+  margin-left: 13%;
+  width: 33%;
 }
 
 #mg-paragraph h1{
