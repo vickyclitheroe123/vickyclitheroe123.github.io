@@ -97,7 +97,7 @@
 #intro{
   position: absolute;
   height: 195px;
-  width: 530px;
+  width: 35%;
   border: 3px solid #E4E5F0;
   text-align: center;
   margin-top: -545px;
@@ -597,7 +597,7 @@ html, body {
 
 #portfolio-heading{
   margin-top: 10%;
-  margin-left: 39%;
+  text-align : center;
   line-height: 106%;
   margin-bottom: 23px;
   font-family: 'roboto', sans-serif;
@@ -614,7 +614,8 @@ html, body {
   color: #444;
   line-height: 163%;
   margin-top: -13px;
-  margin-left: 35%;
+  text-align : center;
+  
 }
 
 a:hover {
