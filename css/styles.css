@@ -530,10 +530,17 @@ margin-bottom: 30px;
    width : 100%;
 }
 
+/* Define the size and position of the linn benton screen shot */
+#linn-image
+{
+    width: 33%;
+    margin-left: 17%;
+    margin-top: 2%;
+}
+
+
 #LinnBenton-ipad {
   float: left;
-  margin-left: 201px;
-  margin-top: 27px;
   height: 540px;
 }
 
@@ -547,8 +554,8 @@ margin-bottom: 30px;
   color: #444;
   line-height: 163%;
   margin-top: 55px;
-  margin-left: 7%;
-  width: 365px;
+  margin-left: 10%;
+  width: 33%;
 }
 
 #LinnBenton-paragraph h1{
