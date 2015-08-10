@@ -411,6 +411,8 @@ margin-bottom: 30px;
 /*mgmedical*/
 #mgmedical {
   margin-top: 6%;
+  width : 100%;
+  height : 550px;
 }
 #mgmacbook {
   height: 360px;
@@ -473,7 +475,7 @@ margin-bottom: 30px;
   width: 968px;
   margin-top: 20%;
   margin-left: -153%;
-  background-color: #E0E0E0;
+  background-color: #B5BCC1;
 }
 
 
@@ -482,6 +484,8 @@ margin-bottom: 30px;
 
 #moca {
   margin-top: 6%;
+  width : 100%;
+  height : 500px;
 }
 
 #moca .divider-line{
@@ -491,6 +495,7 @@ margin-bottom: 30px;
   height: 360px;
   margin-top: 8%;
   margin-left: 20%;
+  float	: left;
 }
 
 #mocaimg {
