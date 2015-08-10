@@ -621,3 +621,10 @@ html, body {
 a:hover {
   text-decoration: none;
 }
+/* set the maximum width of the nav bar to the max width of the page*/ 
+#navcontainer
+{
+  width : 100%;
+}
+
+
