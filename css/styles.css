@@ -6,7 +6,6 @@
 #name{
   height:80px;
   width:80px;
-  border-radius:100%;
   background-color:rgba(135, 136, 148 , 1);
   float:right;
   cursor:pointer;
@@ -469,9 +468,9 @@ margin-bottom: 30px;
 
 .divider-line{
   height: 2px;
-  width: 80%;
+  width: 40%;
   margin-top: 5%;
-  margin-left: 10%;
+  margin-left: 30%;
   float : left;
   background-color: #B5BCC1;
 }
