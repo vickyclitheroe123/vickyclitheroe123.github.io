@@ -12,11 +12,6 @@
   cursor:pointer;
 }
   #homelink{
-    text-decoration:none;
-    
-  }
-  #logo{
-    text-align: center;
   font-size: 46px;
   margin-top: 11px;
   color: #F5F5FA;
@@ -470,9 +465,9 @@ margin-bottom: 30px;
 
 .divider-line{
   height: 2px;
-  width: 968px;
+  width: 80%;
   margin-top: 20%;
-  margin-left: -153%;
+  margin-left: 10%;
   background-color: #B5BCC1;
 }
 
