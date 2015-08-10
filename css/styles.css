@@ -101,7 +101,7 @@
   border: 3px solid #E4E5F0;
   text-align: center;
   margin-top: -545px;
-  margin-left: 427px;
+  margin-left: 34%;
   font-size: 23px;
   background-color: rgba(135, 136, 148 , 0.2);
 }
@@ -239,10 +239,10 @@
 
 #development{
   float:left;
-  width:400px;
+  width: 33%;
   height:300px;
   margin-top: 8%;
-  margin-left: 14%;
+  margin-left: 11%;
   text-align: center;
 }
 
@@ -279,10 +279,10 @@ margin-bottom: 30px;
 
 #design{
   float:left;
-  width:400px;
+  width:33%;
   height:300px;
   margin-top: 8%;
-  margin-left: 9%;
+  margin-left: 8%;
   text-align: center;
 }
 #design-icon:hover{
