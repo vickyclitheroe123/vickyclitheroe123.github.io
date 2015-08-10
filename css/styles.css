@@ -8,6 +8,7 @@
   width:80px;
   background-color:rgba(135, 136, 148 , 1);
   float:right;
+  border-radius: 50%;
   cursor:pointer;
 }
   #homelink{
