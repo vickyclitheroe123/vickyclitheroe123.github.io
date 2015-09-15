@@ -85,13 +85,8 @@
 
 #contact{
   width:100%;
-<<<<<<< HEAD
-  height: 550;
+  height: 550px;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a9e4f7), color-stop(80%,#0fb4e7));
-=======
-  height: 90%;
-  background-color:#4F566E;
->>>>>>> b408b63f8b29bb2f3a6f06d851b355cf723b682b
 }
 
 
@@ -474,18 +469,14 @@ margin-bottom: 30px;
 
 .divider-line{
   height: 2px;
-<<<<<<< HEAD
   width: 968px;
   margin-top: 20%;
   margin-left: -153%;
   background-color: rgba(34, 202, 186, 0.23);
-=======
   width: 40%;
   margin-top: 5%;
   margin-left: 30%;
   float : left;
-  background-color: #B5BCC1;
->>>>>>> b408b63f8b29bb2f3a6f06d851b355cf723b682b
 }
 
 
