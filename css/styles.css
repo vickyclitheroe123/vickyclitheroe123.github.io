@@ -676,3 +676,7 @@ a:hover {
 	}
 }
 
+/*Email adress hover*/
+a#email:hover {
+    color: blue;
+}
