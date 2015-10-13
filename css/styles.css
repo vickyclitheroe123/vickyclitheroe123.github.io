@@ -102,7 +102,16 @@
   font-size: 23px;
   background-color: rgba(135, 136, 148 , 0.2);
 }
-#intro p {
+#intro h1 {
+    margin-top: 27px;
+  color: #F5F5FA;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: 'roboto', sans-serif;
+  font-weight: 400;
+  line-height: 156%;
+}
+#intro h2 {
     margin-top: 27px;
   color: #F5F5FA;
   font-size: 28px;
@@ -678,5 +687,5 @@ a:hover {
 
 /*Email adress hover*/
 a#email:hover {
-    color: blue;
+    color: #0FB4E7;
 }
